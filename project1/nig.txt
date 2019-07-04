@@ -1,0 +1,10 @@
+<html>
+<head>
+	<title>Nigeria Cities</title>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" type="text/css" href="main2.css">
+</head>
+
+<body>
+	<header>
+	

@@ -1,0 +1,1 @@
+console.log(`${name}'s time to train is: ${days} days`);
